@@ -5,6 +5,8 @@ Welcome to a deep-dive analysis and redesign of McDonald’s drive-thru operatio
 ## 🚀 Project Objective
 
 To reduce total drive-thru service time and improve customer satisfaction by identifying and eliminating bottlenecks in McDonald's order fulfillment process. The project aligns tactical improvements with strategic goals to reclaim McDonald's leadership in the QSR drive-thru market.
+![Problem statement]()
+
 
 ## 🧠 Methodology
 
